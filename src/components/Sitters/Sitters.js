@@ -14,11 +14,11 @@ class Sitter extends React.Component {
   render() {
     const { sitter } = this.props;
     return (
-      <div className="Employee col-3">
+      <div className="Sitters col-3">
         <div className="card shadow-sm">
             <div className="card-body">
                 <h5 className="card-title">{sitter.name}</h5>
-                <img className="card-img-top" src={sitter.imageUrl} alt="Card cap"/>
+                <img className="card-img-sitter" src={sitter.imageUrl} alt="Card cap"/>
                 <p className="card-text"><dog>{sitter.dog}</dog></p>
             </div>
         </div>
