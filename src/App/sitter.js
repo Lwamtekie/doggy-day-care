@@ -1,8 +1,8 @@
 const sitter = [
   {
     id: 'sitter1',
-    name: 'Aman',
-    imageUrl: 'https://image.shutterstock.com/image-vector/image-man-walking-dogs-260nw-125398925.jpg',
+    name: 'Adam',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY_JxWHxMJ3Esl-ZN-_Vg06qmORe8vW52kK4P_m3AGmxlqhqCs',
     dog: 'Bandit, Rocky',
   },
   {
@@ -14,13 +14,13 @@ const sitter = [
   {
     id: 'sitter3',
     name: 'Lilly',
-    imageUrl: 'https://b.kisscc0.com/20180813/hlq/kisscc0-puppy-dog-child-cartoon-walking-walking-the-dog-5b7109493ce956.4246059915341346012495.png',
+    imageUrl: 'http://clipart-library.com/data_images/211564.gif',
     dog: 'Apollo',
   },
   {
     id: 'sitter4',
     name: 'Ammy',
-    imageUrl: 'https://media.news4jax.com/photo/2019/04/27/Dog%20shot%2C%20killed%20by%20off-duty%20deputy%20at%20Clay%20County%20park20190427113909.jpg_21782566_ver1.0_1280_720.jpg',
+    imageUrl: 'https://www.lexisnexis.com/LegalNewsRoom/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/telligent-evolution-components-attachments-13-11-00-00-00-00-04-91/Dog-Walking-Leash-Woman-Cartoon.jpg_2D00_392x586.jpg',
     dog: 'Bailey',
   },
   {

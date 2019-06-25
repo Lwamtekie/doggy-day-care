@@ -25,6 +25,7 @@ class App extends React.Component {
        <div className="App">
         <h1 className="section-title">Doggy Daycare</h1>
         <DogPen dogs={ dogs }/>
+        <h1 className="section-title">Doggy Sitters</h1>
         <SittersPen sitters={ sitters }/>
 
        </div>
