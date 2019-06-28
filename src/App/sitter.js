@@ -1,8 +1,8 @@
 const sitter = [
   {
     id: 'sitter1',
-    name: 'Adam',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY_JxWHxMJ3Esl-ZN-_Vg06qmORe8vW52kK4P_m3AGmxlqhqCs',
+    name: 'Shaggy',
+    imageUrl: 'https://3.bp.blogspot.com/-9aHSxjEyU-I/XGRYSemcHVI/AAAAAAAACnM/KPkABVN1Tq4svs9fu4q249ldX3b3LkfZgCLcBGAs/s1600/Designing%2Bof%2BScooby%2BDoo%2BDog%2BBreed.png',
     dog: 'Bandit, Rocky',
   },
   {
