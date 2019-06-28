@@ -1,0 +1,11 @@
+{
+  "firebaseKeys":{
+      "apiKey": "AIzaSyB3GhTdSQjKu5pT0mbMyiPU2nEmdOMr-II",
+      "authDomain": "doggydaycare-31cd0.firebaseapp.com",
+      "databaseURL": "https://doggydaycare-31cd0.firebaseio.com",
+      "projectId": "doggydaycare-31cd0",
+      "storageBucket": "",
+      "messagingSenderId": "843444657765",
+      "appId": "1:843444657765:web:bd1a1a7a7593dd54"
+    }
+  }
